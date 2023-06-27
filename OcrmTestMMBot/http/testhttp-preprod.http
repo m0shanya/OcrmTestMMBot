@@ -1,0 +1,4 @@
+POST http://hr.mmbot.api.inside.mts.by:5031/mmbottest/test HTTP/1.1
+Content-Type: application/json
+
+channel_id=hhqxototcbggdrh8jonz1izf7y&channel_name=testbot&command=%2Ftestocrm&response_url=https%3A%2F%2Fmm.mts.by%2Fhooks%2Fcommands%2Futn3q7spjfdwfrieitqpwh7acy&team_domain=ubr&team_id=phwwxn56dindznu3kmreh8pcbr&text=&token=mun5f9xuttbijxyxoiwfjcfoty&trigger_id=NmNlcWpwc2g5aWQ0OGZ3NTZvcXlmdTZjYWM6YWR6MXozN3BhM2c5ZGd1cDU3M2k2NHQxaXc6MTY4NzUwMTMwNzc0NzpNRVVDSUhNUVFpL213ZFVLZE1Dc2tmN2tFKzVOSjFjY2VTRkE5UHc1TGJPZkFNN2lBaUVBd0ZoRXNlSjAvamZSd1JTVllwYklqemZkN3BCNURhY2tYaEhjdmlCelB1bz0%3D&user_id=adz1z37pa3g9dgup573i64t1iw&user_name=malahov
